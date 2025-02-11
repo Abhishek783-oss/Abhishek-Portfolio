@@ -1,0 +1,39 @@
+/* Container Styling */
+.skills-carousel-container {
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    padding: 40px 0;
+    color: white;
+    text-align: center;
+  }
+  
+  .carousel-title {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: #ffffff;
+  }
+  
+  /* Slider Wrapper */
+  .skills-slider-wrapper {
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  /* Skill Card Styling */
+  .skill-card {
+    
+    border-radius: 5px;
+    padding: 5px;
+    text-align: center;
+    transition: transform 2.5s ease-in-out;
+  }
+  
+  .skill-card h3 {
+    color: #121312;
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .skill-card:hover {
+    transform: scale(1.5);
+  }
+  
