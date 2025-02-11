@@ -2,7 +2,7 @@
   "name": "my-portal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Abhishek783-oss.github.io/<Abhishek-Portfolio>",
+  "homepage": "https://Abhishek783-oss.github.io/Abhishek-Portfolio",
   "dependencies": {
     "@tailwindcss/postcss": "^4.0.6",
     "cra-template": "1.2.0",
